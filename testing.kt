@@ -1,5 +1,7 @@
 package islamicTimes
 
+teting deui
+
 class SunData {
 
     val jd = JulianDay()
