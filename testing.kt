@@ -2,6 +2,8 @@ package islamicTimes
 
 teting deui
 
+testing deui2
+
 class SunData {
 
     val jd = JulianDay()
